@@ -9,6 +9,7 @@ The **Blinkit Sales Power BI Dashboard** is a comprehensive data analytics proje
 ## Workflow Overview
 
 The project follows a standard **data analytics workflow** entirely within Power BI:
+
 [Data Collection (Synthetic Dataset)] --> [Data Cleaning & Transformation in Power BI] --> [Power BI Dashboard Development] --> [Insights & Analysis]
 
 ### Stage Details
